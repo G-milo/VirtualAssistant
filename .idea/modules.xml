@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AI Project/.idea/AI Project.iml" filepath="$PROJECT_DIR$/../AI Project/.idea/AI Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AiPY/.idea/AiPY.iml" filepath="$PROJECT_DIR$/../AiPY/.idea/AiPY.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AiProj - Copy/.idea/AiProj - Copy.iml" filepath="$PROJECT_DIR$/../AiProj - Copy/.idea/AiProj - Copy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PYTHON.iml" filepath="$PROJECT_DIR$/.idea/PYTHON.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/.idea/PycharmProjects.iml" filepath="$USER_HOME$/PycharmProjects/.idea/PycharmProjects.iml" />
+    </modules>
+  </component>
+</project>
